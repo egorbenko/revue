@@ -1,3 +1,5 @@
+> **NOTE**: this project is no longer maintained, take a look at other [Vue-Redux bindings](https://yarnpkg.com/en/packages?q=vue%20redux&p=1) instead.
+
 # Revue
 
 [![NPM version](https://img.shields.io/npm/v/revue.svg?style=flat)](https://npmjs.com/package/revue) [![Build Status](https://img.shields.io/circleci/project/revue/revue/master.svg?style=flat)](https://circleci.com/gh/revue/revue) [![donate](https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&style=flat)](https://github.com/egoist/donate)
